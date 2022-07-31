@@ -1,2 +1,1 @@
-List of contacts
-List of contacts.jpg
+<img src="./screenshots/List of contacts.jpg">
